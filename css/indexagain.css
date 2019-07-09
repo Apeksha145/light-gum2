@@ -130,6 +130,7 @@ h2:hover{color:darkgrey;}
     position: relative;
     top: 49px;
 }
+.cont1 h4{padding-top:15px;}
 	}
 @media only screen and (max-device-width:2560px) and (min-device-width:768px){
 	.sidenav{display:none;}	
@@ -143,6 +144,8 @@ h2:hover{color:darkgrey;}
 	.blog-img{padding:80px;background-color:#d3d3d342;margin-left:auto;margin-right:auto;}
 	.contct{padding-top:60px;}
 	.navbar{ padding-left:30px;padding-right:30px;}
+	.cont1 h4{padding-top:60px;}
+
 }
 	.sidenav 
 	{
